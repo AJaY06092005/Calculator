@@ -1,0 +1,1 @@
+Excited to share my latest project—a fully functional calculator built using JavaScript, HTML, and CSS. This calculator handles basic arithmetic operations like addition, subtraction, multiplication, and division with ease.
